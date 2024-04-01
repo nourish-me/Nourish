@@ -2,6 +2,8 @@
 
 Nourish is a cutting-edge AI-powered decentralized healthcare support platform designed to empower individuals in managing their health effectively. By offering personalized recommendations, health monitoring, telemedicine integration, medication management, nutritional guidance, and mental health support, Nourish aims to revolutionize the way people approach healthcare, leading to healthier, happier lives.
 
+![image](https://github.com/nourish-me/Nourish/assets/163689088/14a52a85-02b5-4598-b876-9160bb54fa75)
+
 ## Key Features
 
 1. **Personalized Recommendations**: Nourish uses advanced AI algorithms to evaluate user health data and provide tailored advice on medicine, nutrition, exercise, and lifestyle changes.
